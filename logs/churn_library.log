@@ -1,0 +1,8 @@
+root - INFO - Testing import_data: SUCCESS
+root - WARNING - Testing perform_eda: ./images/eda/churn_distribution.png exist, will be overwritten
+root - WARNING - Testing perform_eda: ./images/eda/customer_age_distribution.png exist, will be overwritten
+root - WARNING - Testing perform_eda: ./images/eda/marital_status_distribution.png exist, will be overwritten
+root - INFO - Testing perform_data: SUCCESS
+root - INFO - Testing encoder_helper: SUCCESS
+root - INFO - Testing perform_feature_engineering: SUCCESS
+root - INFO - Tesing train_models: SUCCESS
