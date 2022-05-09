@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import joblib
-from conftest import keep_cols, cat_columns
+from config import keep_cols, cat_columns
 # pylint: enable=wrong-import-position
 
 os.environ['QT_QPA_PLATFORM'] = 'offscreen'

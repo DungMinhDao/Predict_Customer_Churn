@@ -9,7 +9,7 @@ Date: April 2022
 import os
 import logging
 import churn_library as cls
-from conftest import keep_cols, cat_columns
+from config import keep_cols, cat_columns
 
 os.environ['QT_QPA_PLATFORM'] = 'offscreen'
 logging.basicConfig(
